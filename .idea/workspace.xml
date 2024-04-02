@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46f80dfb-c21a-49bf-a83b-9a506cef5a1b" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/std_stochastic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entries_made.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/entries_made.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/funny-business.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/funny-business.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +24,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lockermanwxlf&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cf35c85f-a2f4-4521-a53b-b8704b53b70e" />
+        <option name="url" value="https://github.com/lockermanwxlf/algo-trading.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -100,7 +116,8 @@
       <workItem from="1711053492443" duration="7283000" />
       <workItem from="1711306735570" duration="109000" />
       <workItem from="1711389247032" duration="11000" />
-      <workItem from="1711389528810" duration="8381000" />
+      <workItem from="1711389528810" duration="9031000" />
+      <workItem from="1712022467588" duration="11965000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -110,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711306761380</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <option name="closed" value="true" />
+      <created>1711462557975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711462557975</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
